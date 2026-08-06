@@ -1,2 +1,2 @@
-# Custom Ray Tracing Application | Graham Stockton
+# Custom Ray Tracing Application | Copyright Graham Stockton. All rights reserved.
  
