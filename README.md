@@ -1,2 +1,2 @@
-# RayTracingOneWeekendApplication
+# Custom Ray Tracing Application | Graham Stockton
  
